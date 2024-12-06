@@ -4,12 +4,12 @@ export const menuItems: MenuType[] = [
   {
     id: 1,
     name: "Pizza a la Leña Regular",
-    price: 30,
+    price: 20,
   },
   {
     id: 2,
     name: "Pizza a la Leña Grande",
-    price: 50,
+    price: 40,
   },
   {
     id: 3,
