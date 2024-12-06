@@ -3,12 +3,12 @@ import { MenuType } from "../types/type";
 export const menuItems: MenuType[] = [
   {
     id: 1,
-    name: "Pizza a la Leña Chica",
+    name: "Pizza a la Leña Regular",
     price: 30,
   },
   {
     id: 2,
-    name: "Pizza a la Leña Mediana",
+    name: "Pizza a la Leña Grande",
     price: 50,
   },
   {
