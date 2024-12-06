@@ -26,8 +26,7 @@ export default function Totals({ order, tip }: OrderProps) {
           Propina: <span className="font-bold">{formatCurrency(tipTotal)}</span>
         </p>
         <p>
-          Total a pagar:{" "}
-          <span className="font-bold">{formatCurrency(total)}</span>
+          Total: <span className="font-bold">{formatCurrency(total)}</span>
         </p>
       </div>
     </>
